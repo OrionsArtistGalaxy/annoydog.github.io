@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6, p, a{
     animation-fill-mode: none;
     background-size: 51px 50.5px;
     animation-timing-function: ease-in;
-    background-image: url("../images/annoyingdoggie.gif")
+    background-image: url("annoyingdoggie.gif")
 }
 
 @keyframes test {
@@ -80,13 +80,13 @@ footer {
 background-color: lightgoldenrodyellow;
   border: 12px solid;
   padding: 35px;
-  border-image: url( "../images/annoyingdoggie.gif");
+  border-image: url( "annoyingdoggie.gif");
     border-image-width: 20px;
     border-radius: 80px;
 }
 #dog {
     border: 16px solid black;
-border-image:url("../images/souls.png") 35% repeat;
+border-image:url("souls.png") 35% repeat;
 padding: 2px;
 }
 h3:nth-child(odd) {
@@ -101,7 +101,7 @@ h3:nth-child(even) {
     height: 406px;
     position: absolute;
      background-size: 51px 50.5px;
-    background-image: url("../images/annoyingdoggie.gif")
+    background-image: url("annoyingdoggie.gif")
 }
 .down {
     border: solid;
